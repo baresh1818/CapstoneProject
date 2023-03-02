@@ -212,3 +212,15 @@
 2023-03-01 13:07:12,122 - logger_File -INFO - User click on all section
 2023-03-01 13:07:12,289 - logger_File -INFO - Exercise & Fitnessthe 
 2023-03-01 13:07:14,560 - logger_File -INFO - User click on all section
+2023-03-01 20:33:56,821 - logger_File -INFO - User is on retail website
+2023-03-01 20:33:56,905 - logger_File -INFO - user clicked on Sign in option
+2023-03-01 20:33:56,965 - logger_File -INFO - User click on Create New Account button
+2023-03-01 20:33:57,383 - logger_File -INFO - User fill the signUp information form
+2023-03-01 20:34:00,463 - logger_File -INFO - User click on signUp button
+2023-03-01 20:34:01,410 - logger_File -INFO - user is logged into account page
+2023-03-01 21:57:16,344 - logger_File -INFO - User is on retail website
+2023-03-01 21:57:16,570 - logger_File -INFO - user clicked on Sign in option
+2023-03-01 21:57:16,725 - logger_File -INFO - User click on Create New Account button
+2023-03-01 21:57:17,959 - logger_File -INFO - User fill the signUp information form
+2023-03-01 21:57:21,101 - logger_File -INFO - User click on signUp button
+2023-03-01 21:57:22,130 - logger_File -INFO - user is logged into account page
